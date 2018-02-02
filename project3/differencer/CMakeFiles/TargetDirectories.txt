@@ -1,0 +1,3 @@
+/Users/shengjiezhai/Desktop/differencer/CMakeFiles/rebuild_cache.dir
+/Users/shengjiezhai/Desktop/differencer/CMakeFiles/edit_cache.dir
+/Users/shengjiezhai/Desktop/differencer/CMakeFiles/differencer.dir
