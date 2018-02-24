@@ -1,0 +1,3 @@
+/Users/shengjiezhai/Desktop/project7/CMakeFiles/rebuild_cache.dir
+/Users/shengjiezhai/Desktop/project7/CMakeFiles/edit_cache.dir
+/Users/shengjiezhai/Desktop/project7/CMakeFiles/proj6B.dir
