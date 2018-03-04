@@ -1,0 +1,3 @@
+/Users/shengjiezhai/Desktop/project8/CMakeFiles/rebuild_cache.dir
+/Users/shengjiezhai/Desktop/project8/CMakeFiles/edit_cache.dir
+/Users/shengjiezhai/Desktop/project8/CMakeFiles/proj8.dir
