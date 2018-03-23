@@ -1,0 +1,14 @@
+Documentation for mpeg2encode:
+https://www.visitusers.org/index.php?title=Mpeg2encode
+
+Script for movie Hank made ~10 years ago:
+https://www.visitusers.org/index.php?title=Pin37_movie
+
+Script for fly through
+http://visitusers.org/index.php?title=Fly_through
+# and you can pick out your own views with GetView3D()
+
+TimeSliderSetState(time_idx)
+TimeSliderNextState()
+
+

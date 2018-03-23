@@ -1,0 +1,4 @@
+/Applications/VisIt.app/Contents/Resources/bin/visit -cli -s pubu.py
+# -cli: run with command line interface mode
+# -nowin: don't even bring up a visualization window!
+# -s: run the script that is the following argument (pubu.py)
